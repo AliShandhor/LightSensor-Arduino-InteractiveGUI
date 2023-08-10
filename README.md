@@ -48,7 +48,7 @@ The project commenced by establishing the Arduino Grove Board's communication wi
 ## Test
 
 The testing phase encompassed various challenges, including the creation of a JavaFX project, event-driven button interactions, and dynamic responses to light sensor readings. Rigorous testing of the light sensor in a separate environment ensured accurate functionality. The successful integration of these elements culminated in a functional project that allowed users to interact with the Arduino Grove Board through intuitive GUI elements.
-**Video link:** https://www.youtube.com/watch?v=B1MOKFCS1Kg
+**Video link:** https://www.youtube.com/watch?v=B1MOKFCS1Kg.
 ## Learning Outcomes
 
 The project aligns with key learning outcomes by effectively translating conceptual ideas into tangible solutions. Through testing and debugging, it demonstrates the ability to execute strategies and meet project goals. The project successfully addressed the challenge of creating a meaningful connection between GUI and Arduino Grove Board, allowing users to interact with real-time light sensor readings. Its implementation of an intuitive interface with dynamic responses exemplifies object-oriented programming with Java. The project's versatility positions it as a valuable tool in both technology and engineering contexts.
