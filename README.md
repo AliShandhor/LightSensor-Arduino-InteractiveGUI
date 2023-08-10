@@ -3,7 +3,7 @@
 ## Abstract
 
 The **Interactive GUI Interface for Light Sensor Readings with Arduino Board** project combines the power of Graphical User Interface (GUI) using JavaFX with the capabilities of the Arduino Grove Board and a light sensor. This project aims to create a user-friendly interface that allows users to visualize and interact with real-time light sensor readings through intuitive graphical elements.
-
+![image](https://github.com/AliShandhor/LightSensor-Arduino-InteractiveGUI/assets/132630605/38459309-f5a5-4eb9-9a12-5982f1bd3d11)
 ## Table of Contents
 
 - [Introduction](#introduction)
