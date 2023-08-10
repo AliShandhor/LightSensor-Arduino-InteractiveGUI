@@ -34,7 +34,7 @@ The project began with mastering JavaFX for GUI creation and integrating it with
 ### Hardware Components:
 - Arduino Grove Board: Connects hardware and software components.
 - Light Sensor: Captures real-time ambient light readings.
-
+![Arduino Board Set-up](https://drive.google.com/file/d/1O_fMSOh9JCBHczFZw7ZECdnMdjYL_b1G/view?usp=sharing)
 ### Software Components:
 - Arduino (Standard Firmata): Enables communication with the Arduino Grove Board through IntelliJ IDE.
 - Firmata4j Library: Provides essential commands for Grove Board communication.
